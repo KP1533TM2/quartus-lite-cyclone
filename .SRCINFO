@@ -1,6 +1,6 @@
 pkgbase = quartus-lite-cyclone
 	pkgdesc = Cyclone IV device support for Quartus Prime Lite Edition
-	pkgver = 16.0.0.211
+	pkgver = 17.1.0.590
 	pkgrel = 1
 	url = http://dl.altera.com/?edition=lite#tabs-2
 	arch = i686
@@ -9,8 +9,8 @@ pkgbase = quartus-lite-cyclone
 	depends = quartus-lite
 	options = !strip
 	options = !upx
-	source = cyclone-16.0.0.211.zip::http://download.altera.com/akdlm/software/acdsinst/16.0/211/ib_installers/cyclone-16.0.0.211.qdz
-	md5sums = 2c4e5f406114f56e42cb7f25c989a5e2
+	source = cyclone-17.1.0.590.zip::http://download.altera.com/akdlm/software/acdsinst/17.1std/590/ib_installers/cyclone-17.1.0.590.qdz
+	md5sums = 09D346E4AE7AC403DF4F36563E6B7BFB
 
 pkgname = quartus-lite-cyclone
 
